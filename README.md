@@ -26,7 +26,3 @@ cli-practice/
 |      |---kenny.txt
 |      |---maya_siliman_bhattacharjee-marcantonio.txt
 ```
-
-## Optional Practice
-Recreated the following directory structure using only the command line:
-
